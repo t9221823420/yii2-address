@@ -13,7 +13,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "yozh/yii2-crud-v1": "@dev",
+    "yozh/yii2-crud-v1": "@dev"
   },
   "extra": {
     "_bootstrap": "yozh\\address\\Bootstrap"
