@@ -1,6 +1,6 @@
 <?php
 
-namespace yozh\address-simple;
+namespace yozh\address;
 
 use yozh\base\Bootstrap as BaseBootstrap;
 

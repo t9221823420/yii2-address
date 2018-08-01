@@ -1,6 +1,6 @@
 <?php
 
-namespace yozh\address-simple;
+namespace yozh\address;
 
 class AssetBundle extends \yozh\base\AssetBundle
 {
@@ -8,12 +8,12 @@ class AssetBundle extends \yozh\base\AssetBundle
     public $sourcePath = __DIR__ .'/../assets/';
 
     public $css = [
-        //'css/yozh-address-simple.css',
-	    //['css/yozh-address-simple.print.css', 'media' => 'print'],
+        //'css/yozh-address.css',
+	    //['css/yozh-address.print.css', 'media' => 'print'],
     ];
 	
     public $js = [
-        //'js/yozh-address-simple.js'
+        //'js/yozh-address.js'
     ];
 	
     public $depends = [

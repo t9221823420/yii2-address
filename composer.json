@@ -1,8 +1,8 @@
 {
-  "name": "yozh/yii2-address-simple",
+  "name": "yozh/yii2-address",
   "description": "Description",
   "type": "yii2-extension",
-  "keywords": ["yii2","extension","address-simple"],
+  "keywords": ["yii2","extension","address"],
   "license": "MIT",
   "authors": [
     {
@@ -16,11 +16,11 @@
     "yozh/yii2-crud-v1": "@dev",
   },
   "extra": {
-    "_bootstrap": "yozh\\address-simple\\Bootstrap"
+    "_bootstrap": "yozh\\address\\Bootstrap"
   },
   "autoload": {
     "psr-4": {
-      "yozh\\address-simple\\": "src"
+      "yozh\\address\\": "src"
     }
   }
 }

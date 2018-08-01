@@ -1,4 +1,4 @@
-address-simple
+address
 ========
 Description
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yozh/yii2-address-simple "*"
+php composer.phar require --prefer-dist yozh/yii2-address "*"
 ```
 
 or add
 
 ```
-"yozh/yii2-address-simple": "*"
+"yozh/yii2-address": "*"
 ```
 
 to the require section of your `composer.json` file.
